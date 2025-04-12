@@ -14,7 +14,6 @@ const ComponentSidebar: React.FC<ComponentSidebarProps> = ({
   components, 
   activeComponentId, 
   setActiveComponentId, 
-  hoveredComponent, 
   setHoveredComponent 
 }) => {
   const handleComponentClick = (componentId: string) => {
