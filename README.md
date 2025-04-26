@@ -9,7 +9,6 @@ Run the dev server:
 ```shellscript
 npm run dev
 ```
-
 ## Deployment
 
 First, build your app for production:
